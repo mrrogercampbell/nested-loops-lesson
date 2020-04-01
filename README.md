@@ -1,4 +1,5 @@
 # Nested For Loops
+![loops everywhere](./images/loops-everywhere.jpg "Loops Everywhere")
 
 Loops offer a quick and easy way to do something repeatedly. There are a handful of `loop` statement in JavaScript, such as:
     * `for`
@@ -37,6 +38,8 @@ The above example will iterate over the array of Captains and `console.log` each
 ## Nested For Loops
 We commonly utilize `nested for loops` to place one loop inside of another, this allows us to dynamically combine data to output a desired result.
 
+![Use The Loop](./images/use-the-for-loop.jpeg "Use the Loope")
+
 #### We Do:
 Let make our console act out a Star Trek: Short Trek where Captain Picard get stuck in a time loop.
 
@@ -67,10 +70,18 @@ By nesting the `Inner Loop` inside of the `Outer Loop` we are able to:
   5. Then we run through step one and two one more time due to the `Out Loop` not ceasing to execute until its condition is evaluated to true
 </details>
 
+<br/>
+<br/>
+
+![Engage](./images/engage-picard.jpg "Engage")
+
 #### Challenge
 Can you decipher what is going on here in the code below?
 
 ```js
+let captainsOrder = "Mr. Crusher! Engage in:"
+let countDown = [3, 2, 1, 'Engage!']
+
 for(let i = 3; i > 0; i--){
     console.log(captainsOrder)
     for(let j = 0; j < countDown.length; j++){
@@ -78,3 +89,5 @@ for(let i = 3; i > 0; i--){
     }
 }
 ```
+
+
