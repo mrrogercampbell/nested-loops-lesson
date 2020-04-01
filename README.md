@@ -1,13 +1,7 @@
 # Nested For Loops
 ![loops everywhere](./images/loops-everywhere.jpg "Loops Everywhere")
 
-Loops offer a quick and easy way to do something repeatedly. There are a handful of `loop` statement in JavaScript, such as:
-
-    * `for`
-    * `for/in`
-    * `while`
-
- Today we will learn about `nested for loops`.
+Loops offer a quick and easy way to do something repeatedly. There are a handful of `loop` statement in JavaScript, such as: `for`, `for/in`, and `while` to name a few. Today we will learn about `nested for loops`.
 
 ## Prerequisites
 * Basic JavaScript Syntax
