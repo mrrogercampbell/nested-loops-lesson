@@ -59,7 +59,7 @@ As you can see above we are defining two separate loops:
 
 By nesting the `Inner Loop` inside of the `Outer Loop` we are able to:
   1. Execute our `Outer Loop` which outputs Captain Picard's command once
-  2. The `Inner Loop` is executed and outputs its `console log` until its condition is evaluated as true; ie: `3`, `2`, `1`
+  2. Then `Inner Loop` is executed and outputs its `console log` until its condition is evaluated as true; ie: `3`, `2`, `1`
   3. Then the `Out Loop` picks up where it left off and outputs Captain Picard's command again because its condition has not been met
   4. Which then causes the the `Inner Loop` to execute again and repeat step two listed above
   5. Then we run through step one and two one more time due to the `Out Loop` not ceasing to execute until its condition is evaluated to true
