@@ -2,6 +2,7 @@
 ![loops everywhere](./images/loops-everywhere.jpg "Loops Everywhere")
 
 Loops offer a quick and easy way to do something repeatedly. There are a handful of `loop` statement in JavaScript, such as:
+
     * `for`
     * `for/in`
     * `while`
