@@ -36,7 +36,7 @@ We commonly utilize `nested for loops` to place one loop inside of another, this
 ![Use The Loop](./images/use-the-for-loop.jpeg "Use the Loope")
 
 #### We Do:
-Let make our console act out a Star Trek: Short Trek where Captain Picard get stuck in a time loop.
+Let's make our console act out a Star Trek: Short Trek where Captain Picard get stuck in a time loop.
 
 
 ```js
