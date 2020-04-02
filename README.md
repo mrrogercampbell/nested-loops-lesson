@@ -78,7 +78,9 @@ let captainsOrder = "Mr. Crusher! Engage in:"
 let countDown = [3, 2, 1, 'Engage!']
 
 for(let i = 3; i > 0; i--){
+
     console.log(captainsOrder)
+
     for(let j = 0; j < countDown.length; j++){
         console.log(countDown[j])
     }
