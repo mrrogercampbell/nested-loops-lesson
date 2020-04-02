@@ -1,5 +1,5 @@
 # Nested For Loops
-![loops everywhere](./images/loops-everywhere.jpg "Loops Everywhere")
+![loops everywhere](./images/loops-everywhere-298.jpg "Loops Everywhere")
 
 Loops offer a quick and easy way to do something repeatedly. There are a handful of `loop` statement in JavaScript, such as: `for`, `for/in`, and `while` to name a few. Today we will learn about `nested for loops`.
 
@@ -78,7 +78,7 @@ By nesting the `Inner Loop` inside of the `Outer Loop` we are able to:
 <br/>
 <br/>
 
-![Engage](./images/engage-picard.jpg "Engage")
+![Engage](./images/engage-picard-298.jpg "Engage")
 
 ### Challenge
 Can you decipher what is going on here in the code below?
