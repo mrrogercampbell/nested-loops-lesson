@@ -10,8 +10,8 @@ Loops offer a quick and easy way to do something repeatedly. There are a handful
   - [Objectives](#objectives)
   - [Basic For Loops](#basic-for-loops)
   - [Nested For Loops](#nested-for-loops-1)
-      - [We Do](#we-do)
-      - [Challenge](#challenge)
+    - [We Do](#we-do)
+    - [Challenge](#challenge)
 
 ## Prerequisites
 * Basic JavaScript Syntax
@@ -45,7 +45,7 @@ We commonly utilize `nested for loops` to place one loop inside of another, this
 
 ![Use The Loop](./images/use-the-for-loop.jpeg "Use the Loope")
 
-#### We Do
+### We Do
 Let's make our console act out a Star Trek: Short Trek where Captain Picard get stuck in a time loop.
 
 
@@ -80,7 +80,7 @@ By nesting the `Inner Loop` inside of the `Outer Loop` we are able to:
 
 ![Engage](./images/engage-picard.jpg "Engage")
 
-#### Challenge
+### Challenge
 Can you decipher what is going on here in the code below?
 
 ```js
