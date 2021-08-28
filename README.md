@@ -1,5 +1,5 @@
 # Nested For Loops
-![loops everywhere](./images/loops-everywhere.jpg "Loops Everywhere")
+![loops everywhere]("./images/loops-everywhere.jpg "Loops Everywhere")
 
 Loops offer a quick and easy way to do something repeatedly. There are a handful of `loop` statement in JavaScript, such as: `for`, `for/in`, and `while` to name a few. Today we will learn about `nested for loops`.
 
